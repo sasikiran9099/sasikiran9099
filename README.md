@@ -33,13 +33,13 @@
   <a href="https://t.co/redirect?url=https%3A%2F%2Fx.com%2FSATHEESHRE67891&t=1&cn=bG9naW5fbm90aWZpY2F0aW9uX2VtYWls&sig=33d383a36add9a18aa7f64243f2ce9fcf020ef43&iid=4e7075cb242f4f8d95709db9bb5d0694&uid=1855475594437468161&nid=296+1 " target="_blank" rel="noreferrer">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="techie mindblower🤬" height="30" width="40" />
   </a>
+  <a href="https://www.hackerrank.com/aranav1289" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aranav1289" height="30" width="40" />
+  </a>
   <!-- Uncomment below if you want to include more links -->
   <!--
   <a href="https://www.codechef.com/users/aranav1289" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aranav1289" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/aranav1289" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aranav1289" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/aranav1289" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aranav1289" height="30" width="40" />
