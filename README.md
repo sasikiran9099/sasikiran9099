@@ -10,7 +10,7 @@
 
 <br>
 
- 🌱 I've gained knowledge in Python, SQL, and JavaScript
+- 🌱 I've gained knowledge in Python, SQL, and JavaScript
   
 - 👯 I’m looking to collaborate on Python based projects
   
