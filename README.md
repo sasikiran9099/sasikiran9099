@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me ⚡:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aranavmahalpure" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/sasi-kiran-chadalawada-368923239" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aranavmahalpure" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aranav@1289" target="_blank" rel="noreferrer">
