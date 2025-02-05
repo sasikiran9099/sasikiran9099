@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SasiKiran</h1>
 <h3 align="center"><<---Full Stack Developer👨‍💻--->></h3>
 
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" height='400px' width="500px">
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" height='300px' width="300px">
 
 <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=AranavMahalpure&style=for-the-badge&color=orange" alt=""/>
@@ -11,10 +11,15 @@
 <br>
 
 - 🌱 I've gained knowledge in Python, SQL, and JavaScript
+  
 - 👯 I’m looking to collaborate on Python based projects
+  
 - 👨‍💻 I’m currently learning Django & API'S
+  
 - 👨‍💻 More projects are still in development phase....
+  
 - 💬 Ask me about Python, JavaScript, SQL, HTML, CSS
+  
 - 📫 How to reach me: sasikiranchadalavada@gmail.com
 
 <h3 align="left">Connect with me ⚡:</h3>
