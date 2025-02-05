@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me ⚡:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/sasi-kiran-chadalawada-368923239" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/sasi-kiran-chadalawada-368923239/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aranavmahalpure" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aranav@1289" target="_blank" rel="noreferrer">
@@ -34,7 +34,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="techie mindblower🤬" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/chsasikiran07" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aranav1289" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chsasikiran" height="30" width="40" />
   </a>
   <!-- Uncomment below if you want to include more links -->
   <!--
