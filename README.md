@@ -17,8 +17,6 @@
 - 💬 Ask me about Python, JavaScript, SQL, HTML, CSS
 - 📫 How to reach me: sasikiranchadalavada@gmail.com
 
-<h3 align="left">Currently, I have started my journey in Data Structures and Algorithms and Competitive Programming. If you want to join, let's connect! 👯</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif?cid=6c09b9525c5td08q9rcva265aip52o30qdwounnh7bsmvfzu&ep=v1_gifs_search&rid=200.gif&ct=g">
 <h3 align="left">Connect with me ⚡:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aranavmahalpure" target="_blank" rel="noreferrer">
